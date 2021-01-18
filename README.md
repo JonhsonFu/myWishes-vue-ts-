@@ -1,3 +1,7 @@
+## 项目出处
+
+[github 地址](https://github.com/Armour/vue-typescript-admin-template)
+
 ## 在线演示
 
 [Demo](https://armour.github.io/vue-typescript-admin-template)
